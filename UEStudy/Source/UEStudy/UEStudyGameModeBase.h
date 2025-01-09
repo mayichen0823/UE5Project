@@ -9,7 +9,7 @@
 /**
  * 
  */
-UCLASS()
+UCLASS(BlueprintType)
 class UESTUDY_API AUEStudyGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
